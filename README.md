@@ -15,7 +15,7 @@ Este projeto é uma simulação de um sistema de semáforo inteligente utilizand
 ### **1. Clonando o Repositório**  
 Clone o repositório para o seu ambiente local:  
 ```bash
-git clone https://github.com/fabianofwp19/Semaforo_Thinkercard.git
+git clone https://github.com/fabianofwp19/Semaforo_Inteligente_Arduino.git
 ```
 ### **2. Configurando o Ambiente**  
 - Acesse o [Tinkercad](https://www.tinkercad.com/) e importe o código-fonte do projeto.  
