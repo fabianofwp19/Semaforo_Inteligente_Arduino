@@ -34,4 +34,4 @@ git clone https://github.com/fabianofwp19/Semaforo_Inteligente_Arduino.git
 Contribuições são bem-vindas! Caso tenha sugestões ou melhorias, abra uma **issue** ou envie um **pull request** com suas alterações.  
 
 ## **Licença**  
-Este projeto está licenciado sob a **Licença MIT**.  
+Este projeto está licenciado sob a **Licença MIT**. 
